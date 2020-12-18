@@ -1,3 +1,3 @@
-# Front-end Coding Challenge for DnD Beyond
+# Using Svelte to manage state and build nice things.
 
-(based on https://github.com/DnDBeyond/front-end-developer-challenge)
+I chose to use Svelte so that I wouldn't fall back on my usual Angular-based habits.  I also tried to show component-based thinking and separation of concerns.
