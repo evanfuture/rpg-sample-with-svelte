@@ -9,3 +9,6 @@ I chose to use Svelte so that I wouldn't fall back on my usual Angular-based hab
 - click to distribute points
 - right-click to take them away
 - (I was following instructions here, but I think the better UX is to just toggle them and not to override the browser context menu)
+
+
+Or visist https://boring-einstein-da65a3.netlify.app/
